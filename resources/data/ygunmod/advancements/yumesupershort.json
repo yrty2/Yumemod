@@ -1,0 +1,19 @@
+{
+  "parent":"yumemod:enter_dream",
+  "display":{
+    "icon":{
+      "item":"minecraft:player_head"
+    },
+    "title": "ショートスリーパー",
+    "description":"5秒以内に起床",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

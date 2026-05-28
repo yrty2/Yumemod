@@ -1,0 +1,19 @@
+{
+  "parent":"yumemod:enter_abyss",
+  "display": {
+    "icon": {
+      "item":"yumemod:light_silt_block"
+    },
+    "title":"もっと深く...",
+    "description":"特殊な方法で深海に入る",
+    "frame":"task",
+    "show_toast":true,
+    "announce_to_chat":true,
+    "hidden":false
+  },
+  "criteria":{
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

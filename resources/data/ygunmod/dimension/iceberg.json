@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:overworld",
+  "generator":{
+    "type":"minecraft:noise",
+    "settings":"yumemod:dream_noise",
+    "biome_source":{
+      "type":"minecraft:fixed",
+      "biome":"yumemod:iceberg_biome"
+    }
+  }
+}

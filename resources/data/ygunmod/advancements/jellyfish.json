@@ -1,0 +1,19 @@
+{
+  "parent":"yumemod:enter_abyss",
+  "display":{
+    "icon":{
+      "item":"minecraft:beacon"
+    },
+    "title": "クラゲは何も語らず",
+    "description":"クラゲイベントを発生させる。",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

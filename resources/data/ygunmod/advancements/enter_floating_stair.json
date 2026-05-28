@@ -1,0 +1,22 @@
+{
+  "parent":"yumemod:enter_dream",
+  "display": {
+    "icon": {
+      "item":"minecraft:polished_blackstone_stairs"
+    },
+    "title":"階段、宙を浮く",
+    "description":"浮遊階段に入る",
+    "frame":"task",
+    "show_toast":true,
+    "announce_to_chat":true,
+    "hidden":false
+  },
+  "criteria":{
+    "entered_dimension":{
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "yumemod:floating_stair"
+      }
+    }
+  }
+}

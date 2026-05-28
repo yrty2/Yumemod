@@ -1,0 +1,19 @@
+{
+  "parent":"yumemod:exit_dream",
+  "display":{
+    "icon":{
+      "item":"minecraft:red_bed"
+    },
+    "title": "なんだ、夢か。",
+    "description":"夢の世界で死ぬ",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

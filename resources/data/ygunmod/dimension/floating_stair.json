@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:overworld",
+  "generator":{
+    "type":"minecraft:noise",
+    "settings":"yumemod:null_noise",
+    "biome_source":{
+      "type":"minecraft:fixed",
+      "biome":"yumemod:floating_stair_biome"
+    }
+  }
+}

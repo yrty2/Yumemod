@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": ["yumemod:street_biome"],
+  "spawners": {
+    "type": "minecraft:enderman",
+    "weight": 20,
+    "minCount": 16,
+    "maxCount": 32
+  }
+}

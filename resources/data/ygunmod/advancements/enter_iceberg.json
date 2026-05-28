@@ -1,0 +1,22 @@
+{
+  "parent":"yumemod:enter_dream",
+  "display": {
+    "icon": {
+      "item":"minecraft:packed_ice"
+    },
+    "title":"退屈な十億年",
+    "description":"氷河期に入る",
+    "frame":"task",
+    "show_toast":true,
+    "announce_to_chat":true,
+    "hidden":false
+  },
+  "criteria":{
+    "entered_dimension":{
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "yumemod:iceberg"
+      }
+    }
+  }
+}

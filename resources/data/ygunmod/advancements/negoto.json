@@ -1,0 +1,19 @@
+{
+  "parent":"yumemod:enter_dream",
+  "display":{
+    "icon":{
+      "item":"minecraft:oak_sign"
+    },
+    "title": "ただの寝言だ。",
+    "description":"夢の中でチャットをする。",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

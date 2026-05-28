@@ -1,0 +1,19 @@
+{
+  "parent":"yumemod:dream_end",
+  "display":{
+    "icon":{
+      "item":"minecraft:ender_eye"
+    },
+    "title": "明晰夢",
+    "description":"夢の中でエンダードラゴンを倒し、夢の最奥にたどり着く。",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

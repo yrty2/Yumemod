@@ -1,0 +1,19 @@
+{
+  "parent":"yumemod:luciddream",
+  "display":{
+    "icon":{
+      "item":"minecraft:end_crystal"
+    },
+    "title": "インセプション",
+    "description":"夢の中のインベントリを現世に転送する",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

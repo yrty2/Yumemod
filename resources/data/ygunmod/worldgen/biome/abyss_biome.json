@@ -1,0 +1,28 @@
+{
+  "has_precipitation": false,
+  "temperature": 0.5,
+  "downfall": 0.5,
+  "effects": {
+    "sky_color": 1845346,
+    "fog_color": 199734,
+    "water_color": 0,
+    "water_fog_color": 199734
+  },
+  "spawn_costs": {},
+  "spawners": {},
+  "carvers": {},
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "yumemod:abyss"
+    ]
+  ]
+}

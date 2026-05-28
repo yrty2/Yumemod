@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:overworld",
+  "generator":{
+    "type":"minecraft:noise",
+    "settings":"yumemod:fullsandstone_noise",
+    "biome_source":{
+      "type":"minecraft:fixed",
+      "biome":"yumemod:sand_tunnel_biome"
+    }
+  }
+}

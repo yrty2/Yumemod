@@ -1,0 +1,19 @@
+{
+  "parent":"yumemod:dream_nether",
+  "display":{
+    "icon":{
+      "item":"minecraft:end_stone"
+    },
+    "title": "夢遊病",
+    "description":"夢エンドに入る",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria":{
+    "manual":{
+      "trigger":"minecraft:impossible"
+    }
+  }
+}

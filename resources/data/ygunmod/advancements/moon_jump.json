@@ -1,0 +1,19 @@
+{
+  "parent":"yumemod:jellyfish",
+  "display":{
+    "icon":{
+      "item":"minecraft:beacon"
+    },
+    "title": "クラゲさんつれていって",
+    "description":"深海で高度300を超え、下水道に入る",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

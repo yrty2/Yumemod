@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": ["yumemod:dream_field_biome"],
+  "spawners": {
+    "type": "minecraft:zombie_villager",
+    "weight": 20,
+    "minCount": 4,
+    "maxCount": 10
+  }
+}

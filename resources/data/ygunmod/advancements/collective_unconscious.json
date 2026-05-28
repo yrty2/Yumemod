@@ -1,0 +1,19 @@
+{
+  "parent":"yumemod:yumenikki",
+  "display":{
+    "icon":{
+      "item":"minecraft:book"
+    },
+    "title": "コレクティブ・アンコンシャスネス",
+    "description":"夢の続きを見る",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

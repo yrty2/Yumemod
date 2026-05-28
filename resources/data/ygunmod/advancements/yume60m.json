@@ -1,0 +1,19 @@
+{
+  "parent":"yumemod:yume20m",
+  "display":{
+    "icon":{
+      "item":"minecraft:clock"
+    },
+    "title": "寝たきり",
+    "description":"夢の中で1時間を過ごす。",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

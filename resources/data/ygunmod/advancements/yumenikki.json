@@ -1,0 +1,19 @@
+{
+  "parent":"yumemod:exit_dream",
+  "display":{
+    "icon":{
+      "item":"minecraft:book"
+    },
+    "title": "ゆめにっき",
+    "description":"夢日記を使う",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
