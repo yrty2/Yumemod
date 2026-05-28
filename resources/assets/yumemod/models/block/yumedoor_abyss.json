@@ -1,0 +1,40 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"2": "yumemod:block/yumedoor_abyss",
+		"particle": "yumemod:block/yumedoor_abyss"
+	},
+	"elements": [
+		{
+			"name": "base",
+			"from": [0, 0, 0],
+			"to": [2, 32, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-6, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 8, 0.5, 16], "texture": "#2"},
+				"east": {"uv": [0, 0, 4, 8], "texture": "#2"},
+				"south": {"uv": [8, 0, 8.5, 8], "texture": "#2"},
+				"west": {"uv": [4, 0, 8, 8], "texture": "#2"},
+				"up": {"uv": [1, 12, 0.5, 8], "texture": "#2"},
+				"down": {"uv": [1.5, 8, 1, 12], "texture": "#2"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [7.25, 0, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [0, 0, 0],
+			"scope": 0,
+			"color": 0,
+			"children": []
+		},
+		0
+	]
+}
