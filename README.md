@@ -31,3 +31,13 @@
 jarファイルをmodsフォルダにぶち込みます。
 
 前提modはありません。以上です。
+
+# あとがき
+
+実は先駆者兄貴がすでに同じ発想のmodを作っています。残念ながら互換性はないよ。
+
+恐らくこれ系のmodは他にYume Craftしかない。(何ならこのmodが初出だと思っていた)
+
+Yume Craftー＞https://www.curseforge.com/minecraft/mc-mods/yumecraft
+
+先駆者兄貴ー＞https://x.com/rebbystuff
