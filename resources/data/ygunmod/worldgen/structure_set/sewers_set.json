@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "yumemod:sewers_start",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 3,
+    "separation": 2,
+    "salt": 12345673
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": [
+    "yumemod:floating_stair_biome"
+  ],
+  "start_height": {
+    "type": "minecraft:uniform",
+    "min_inclusive": { "absolute": 64 },
+    "max_inclusive": { "absolute": 100 }
+  },
+  "spawn_overrides": {},
+  "start_pool": "yumemod:float/floating_stair",
+  "size": 1,
+  "max_distance_from_center": 80,
+  "step": "underground_structures",
+  "use_expansion_hack": false
+}

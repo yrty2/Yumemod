@@ -1,0 +1,42 @@
+{
+  "name": "yumemod:bridge/path",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "yumemod:bridge/way1",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 24
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "yumemod:bridge/way2",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 12
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "yumemod:bridge/way3",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 6
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "yumemod:bridge/way4",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ]
+}
