@@ -8,7 +8,7 @@
 
 ・麦畑(Dream Field)
 
-・アーキアンアース(Ice Burg)
+・不毛の山(Ice Burg)
 
 ・無限下水道(Sewers)
 
